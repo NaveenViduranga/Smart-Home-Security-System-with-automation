@@ -1,0 +1,1 @@
+THis is seperated code for security and automation .For security I used esp32 and automation i used esp8266.This codes are somewhat fast because of the seperation

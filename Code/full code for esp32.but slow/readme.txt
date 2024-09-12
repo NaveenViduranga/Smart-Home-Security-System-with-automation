@@ -1,0 +1,1 @@
+this is the full code.but it is slow because toomany data is sending to firebase and receive
